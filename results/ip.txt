@@ -1,0 +1,10 @@
+8.35.211.1:443#59ms|44.81MB/s|Singapore
+8.35.211.176:443#59ms|39.05MB/s|Singapore
+188.164.248.195:443#58ms|38.70MB/s|Singapore
+8.39.125.62:443#59ms|31.14MB/s|Singapore
+8.35.211.109:443#59ms|29.84MB/s|Singapore
+188.164.248.220:443#58ms|26.38MB/s|Singapore
+8.39.125.104:443#59ms|22.25MB/s|Singapore
+8.39.125.225:443#59ms|21.44MB/s|Singapore
+188.164.248.96:443#59ms|19.71MB/s|Singapore
+8.39.125.183:443#58ms|13.12MB/s|Singapore
